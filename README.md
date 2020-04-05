@@ -1,3 +1,5 @@
+This project is for my blog series. I am trying to help people understand how the react hooks actully works.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
